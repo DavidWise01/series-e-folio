@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-SERIES_E_FOLIO",
+  "name": "SERIES E · PP",
+  "universe": "IDIOS",
+  "moniker": "⟦SERIES E · PP:series-e-folio:7011bc⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "7011bc5b2fb61143e591e94b19b2b47f45767384c27391dc8743594890ddb721",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
